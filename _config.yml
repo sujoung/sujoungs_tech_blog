@@ -1,8 +1,7 @@
 title: Sujoung Dev Notes
-description: 개발 하며 부르친 상황들 정리
-locale: ko
+description: 개발 하며 부닥친 상황들 정리
 url: https://sujoung.github.io
 baseurl: "/sujoungs_tech_blog"
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
