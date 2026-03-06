@@ -2,8 +2,7 @@ title: Sujoung Dev Notes
 description: 개발 하며 부르친 상황들 정리
 locale: ko
 url: https://sujoung.github.io
-baseurl: ""
-# GitHub Pages default theme
+baseurl: "/sujoungs_tech_blog"
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-feed
